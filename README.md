@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="screenshoot.gif" />
+    <img src="screenshot.gif" />
 </p>
 
 ## kald
